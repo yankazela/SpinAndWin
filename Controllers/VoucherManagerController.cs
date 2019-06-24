@@ -11,5 +11,11 @@ namespace SpinAndWin.Controllers
     [ApiController]
     public class VoucherManagerController : ControllerBase
     {
+        [Route("fetch-winningid")]
+        //[HttpGet]
+        public int GetWinningId()
+        {
+            return 3;
+        }
     }
 }
