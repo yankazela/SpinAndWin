@@ -1,0 +1,14 @@
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\bin\Debug\netcoreapp2.1\SpinAndWin.deps.json
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\bin\Debug\netcoreapp2.1\SpinAndWin.runtimeconfig.json
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\bin\Debug\netcoreapp2.1\SpinAndWin.runtimeconfig.dev.json
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\bin\Debug\netcoreapp2.1\SpinAndWin.dll
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.csprojAssemblyReference.cache
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.csproj.CoreCompileInputs.cache
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.RazorAssemblyInfo.cache
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.RazorAssemblyInfo.cs
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.AssemblyInfoInputs.cache
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.AssemblyInfo.cs
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.RazorTargetAssemblyInfo.cache
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\bin\Debug\netcoreapp2.1\SpinAndWin.pdb
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.dll
+C:\Users\yannick.kazadi\source\repos\SpinAndWin\obj\Debug\netcoreapp2.1\SpinAndWin.pdb
